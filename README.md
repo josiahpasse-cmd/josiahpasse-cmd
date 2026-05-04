@@ -1,6 +1,6 @@
-## Hi there! I'm Josiah Passe 👋
-
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/03810c73-2667-45b3-80fe-3141e66cde42" />
+
+## Hi there! I'm Josiah Passe 👋
 
 - 👨‍🏫 Education Technology has been my passion! I'm a nerd for stats and supporting our teachers, school administrators and students to make data-informed decisions.
 - 🧑‍🎓 I'm working towards a M.S. in Data Science at the University of Saint Thomas in Saint Paul, Minnesota.
