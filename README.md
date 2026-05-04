@@ -1,12 +1,15 @@
-## Hi there 👋
+## Hi there! I'm Josiah Passe 👋
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/03810c73-2667-45b3-80fe-3141e66cde42" />
+
+- 👨‍🏫 Education Technology has been my passion! I'm a nerd for stats and supporting our teachers, school administrators and students to make data-informed decisions.
+- 🧑‍🎓 I'm working towards a M.S. in Data Science at the University of Saint Thomas in Saint Paul, Minnesota.
+
 
 <!--
 **josiahpasse-cmd/josiahpasse-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
